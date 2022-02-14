@@ -1,0 +1,16 @@
+C:\Users\ADMIN\AP\DemoShape\bin\Debug\net5.0\DemoShape.exe
+C:\Users\ADMIN\AP\DemoShape\bin\Debug\net5.0\DemoShape.deps.json
+C:\Users\ADMIN\AP\DemoShape\bin\Debug\net5.0\DemoShape.runtimeconfig.json
+C:\Users\ADMIN\AP\DemoShape\bin\Debug\net5.0\DemoShape.runtimeconfig.dev.json
+C:\Users\ADMIN\AP\DemoShape\bin\Debug\net5.0\DemoShape.dll
+C:\Users\ADMIN\AP\DemoShape\bin\Debug\net5.0\ref\DemoShape.dll
+C:\Users\ADMIN\AP\DemoShape\bin\Debug\net5.0\DemoShape.pdb
+C:\Users\ADMIN\AP\DemoShape\obj\Debug\net5.0\DemoShape.csproj.AssemblyReference.cache
+C:\Users\ADMIN\AP\DemoShape\obj\Debug\net5.0\DemoShape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\AP\DemoShape\obj\Debug\net5.0\DemoShape.AssemblyInfoInputs.cache
+C:\Users\ADMIN\AP\DemoShape\obj\Debug\net5.0\DemoShape.AssemblyInfo.cs
+C:\Users\ADMIN\AP\DemoShape\obj\Debug\net5.0\DemoShape.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\AP\DemoShape\obj\Debug\net5.0\DemoShape.dll
+C:\Users\ADMIN\AP\DemoShape\obj\Debug\net5.0\ref\DemoShape.dll
+C:\Users\ADMIN\AP\DemoShape\obj\Debug\net5.0\DemoShape.pdb
+C:\Users\ADMIN\AP\DemoShape\obj\Debug\net5.0\DemoShape.genruntimeconfig.cache
